@@ -1,2 +1,2 @@
 # NeoCSV-CSV
-This is me use 
+This is a mini game I made with AI.
